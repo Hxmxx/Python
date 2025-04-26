@@ -6,7 +6,7 @@ __pycache__/
 *.db
 
 # 환경 변수 파일
-.env
+DiscordBot/.env
 
 # 다운로드 폴더 (음원 파일이 저장되는 디렉토리)
 downloads/
@@ -27,3 +27,5 @@ env/
 # OS 관련
 .DS_Store
 Thumbs.db
+
+.vscode
