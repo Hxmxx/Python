@@ -1,0 +1,29 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# 환경 변수 파일
+.env
+
+# 다운로드 폴더 (음원 파일이 저장되는 디렉토리)
+downloads/
+
+# 디버깅 파일
+*.log
+
+# IDE 설정 파일들
+.vscode/
+.idea/
+
+# 가상 환경 관련
+venv/
+env/
+.venv/
+.env/
+
+# OS 관련
+.DS_Store
+Thumbs.db
